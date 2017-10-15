@@ -1,24 +1,7 @@
-# README
+<h1>Micro Reddit</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project features the data structures necessary to support link submissions and commenting for a reddit-like application. There is no front end for the application.
 
-Things you may want to cover:
+- The full project details can be found here:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record
